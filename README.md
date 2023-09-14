@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @spencer-thompson
-- 👀 I’m interested in: learning everything I can about computer science.
-- 🌱 I’m currently learning: Flutter, Dart, Python
+- 👀 I’m interested in: Machine Learning,.
+- 🌱 I’m currently learning: Python, Google Cloud, Redis, Project Management
 - 💞️ I’m looking to collaborate on: Any Project :)
 - 📫 How to reach me: sthompson.dev@outlook.com
 
