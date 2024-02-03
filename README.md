@@ -1,6 +1,6 @@
 # Spencer Thompson
 
-![Static Badge](https://img.shields.io/badge/:badgeContent)
+![Static Badge](https://img.shields.io/badge/Neovim)
 
 - 👋 Hi, I’m @spencer-thompson
 - 👀 I’m interested in: Machine Learning,.
