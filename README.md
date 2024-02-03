@@ -1,3 +1,7 @@
+# Spencer Thompson
+
+![Static Badge](https://img.shields.io/badge/:badgeContent)
+
 - 👋 Hi, I’m @spencer-thompson
 - 👀 I’m interested in: Machine Learning,.
 - 🌱 I’m currently learning: Python, Google Cloud, Redis, Project Management
