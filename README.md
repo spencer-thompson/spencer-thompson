@@ -4,7 +4,7 @@
 ![Static Badge](https://img.shields.io/badge/Rust-red?style=for-the-badge&logo=rust&labelColor=black&link=https%3A%2F%2Fgo.dev%2F)
 ![Static Badge](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&labelColor=black&link=https%3A%2F%2Fwww.python.org%2F)
 
-I am currently a student at [Utah Valley University](https://www.uvu.edu/). I am the president of the Computer Science club and I love math.
+I recently graduated with a Bachelors in Computation Data Science with a minor in Mathematics and a minor in Chinese Language from [Utah Valley University](https://www.uvu.edu/). I love math and data.
 
 还有我会说中文！
 
