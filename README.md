@@ -8,6 +8,8 @@ I am currently a student at [Utah Valley University](https://www.uvu.edu/). I am
 
 还有我会说中文！
 
+<!---
+
 <a href="https://github.com/spencer-thompson/spencer-thompson">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spencer-thompson&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
@@ -16,7 +18,7 @@ I am currently a student at [Utah Valley University](https://www.uvu.edu/). I am
 </a>
 
 
-<!---
+
 spencer-thompson/spencer-thompson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
